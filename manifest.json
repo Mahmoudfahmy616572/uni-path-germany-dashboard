@@ -1,6 +1,6 @@
 {
-    "name": "germany_travel",
-    "short_name": "germany_travel",
+    "name": "unipath_dashboard",
+    "short_name": "unipath_dashboard",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
